@@ -95,7 +95,7 @@ NextCloud supports many database options including MySQL, MariaDB, and PostgreSQ
 
 First you will need to install Postgres locally:
 
-``sudo apt-get install postgresql postgresql-contrib php-pgsql`
+`sudo apt-get install postgresql postgresql-contrib php-pgsql`
 
 
 
