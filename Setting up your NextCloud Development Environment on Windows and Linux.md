@@ -146,7 +146,7 @@ Your data folder may be in a few locations within the Apache hierarchy, but it i
 
 If this is the case, try to give it the correct permissions with:
 
-`chmod 770 /var/www/nextcloud-data`
+`sudo chmod 770 /var/www/nextcloud-data`
 
 If you cannot locate your data folder, you may wish to do a fresh install of the repository, this time also running [this script](https://doc.owncloud.org/server/9.0/admin_manual/installation/installation_wizard.html) before creating your admin account:
 
